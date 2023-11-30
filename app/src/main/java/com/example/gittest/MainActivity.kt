@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("Meine zweiter Commit --> ich habe Mist gebaut")
         println("neuer Branch(zweite Variante von Change")
         println("Änderungen im Experimental branch")
+        println("hello my friend")
     }
 }
