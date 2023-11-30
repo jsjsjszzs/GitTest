@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Mein erster Commit")
         println("Meine zweiter Commit --> ich habe Mist gebaut")
-        println("neuer Branch (change)")
+        println("neuer Branch(zweite Variante von Change")
+        println("Änderungen im Experimental branch")
     }
 }
