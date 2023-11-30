@@ -9,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Mein erster Commit")
         println("Meine zweiter Commit --> ich habe Mist gebaut")
-        println("Mein driter Commit")
     }
 }
