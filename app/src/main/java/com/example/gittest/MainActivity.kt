@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
         println("Mein erster Commit")
         println("Meine zweiter Commit --> ich habe Mist gebaut")
         println("neuer Branch")
-        println("auch neuer Branch, Commit 2")
     }
 }
